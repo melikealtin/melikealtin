@@ -1,5 +1,5 @@
 <h1 align="center">Hi! Welcome to my Github profile 👋</h1>
-<h3 align="center">Vue frontend developer from Turkey</h3>
+
 
 - 🌱 I’m currently learning **React**
 
