@@ -1,7 +1,7 @@
 <h1 align="center">Hi! Welcome to my Github profile 👋</h1>
 
 
-- 🌱 I’m currently learning **React**
+
 
 
 
